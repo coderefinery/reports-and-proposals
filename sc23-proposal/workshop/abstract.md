@@ -2,7 +2,7 @@
 
 Title: "CodeRefinery: Training researchers and RSEs in FAIR tools and practices"
 
-CodeRefinery is a project funded by Nordic e-Infrastructure Collaboration (NeIC) supporting students, researchers of all levels and RSEs across all research fields by teaching FAIR research software engineering practices.
+CodeRefinery is a project funded by Nordic e-Infrastructure Collaboration (NeIC) supporting students, researchers, and RSEs across all research fields by teaching FAIR research software engineering practices.
 
 All CodeRefinery team members are involved in HPC training at their national or local organizations and bring their knowledge and experiences into the project or vice-versa. Our public CodeRefinery chat also serves as a hub for information exchange and support for everyone interested. 
 
