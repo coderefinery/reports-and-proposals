@@ -3,13 +3,13 @@
 Title: "CodeRefinery: Training researchers and RSEs in FAIR tools and
 practices"
 
-CodeRefinery is a project funded by Nordic e-Infrastructure Collaboration
+CodeRefinery is a project funded by the Nordic e-Infrastructure Collaboration
 (NeIC) supporting students, researchers, and RSEs across all research fields by
 teaching FAIR research software engineering practices.
 
 All CodeRefinery team members are involved in HPC training at their national or
 local organizations and bring their knowledge and experiences into the project
-or vice-versa. Our public CodeRefinery chat also serves as a hub for
+and also apply their teaching in their organizations. Our public CodeRefinery chat also serves as a hub for
 information exchange and support for everyone interested.
 
 One core part of the project is the development of lesson material and the
@@ -19,7 +19,7 @@ in a traditional university curriculum.
 
 The CodeRefinery teaching model for these workshops combines live-streaming,
 co-teaching, parallelized and threaded questions and answers, and parallel
-in-person events followed via stream. This strategy has been applied to
+in-person events following via stream. This strategy has been applied to
 teaching events with over 500 registered participants.
 
 In this contribution we will share our experiences and lessons learned from
