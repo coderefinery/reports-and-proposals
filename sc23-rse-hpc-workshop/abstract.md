@@ -1,7 +1,13 @@
-# Abstract for the workshop [Research Software Engineers in HPC (RSE-HPC-2023)](https://us-rse.org/rse-hpc-2023/)
+---
+title: "CodeRefinery: Training researchers and RSEs in FAIR tools and practices"
+author: "Samantha Wittke and Radovan Bast"
+date: "2023-08-09"
+format: pdf
+---
 
-Title: "CodeRefinery: Training researchers and RSEs in FAIR tools and
-practices"
+\thispagestyle{empty}
+
+# Abstract for a lightning talk at the workshop [Research Software Engineers in HPC (RSE-HPC-2023)](https://us-rse.org/rse-hpc-2023/)
 
 CodeRefinery is a project funded by the Nordic e-Infrastructure Collaboration
 (NeIC) supporting students, researchers, and RSEs across all research fields by
