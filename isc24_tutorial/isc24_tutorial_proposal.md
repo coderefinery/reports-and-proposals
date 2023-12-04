@@ -12,17 +12,9 @@
 
 ### Abstract (Maximum words: 200)
 
-This tutorial will focus on helping competent practitioners and experts teach their knowledge to others. It also serves a kickstart to teach existing open-source training materials on software engineering best practices from CodeRefinery and various HPC topics from NCC-Sweden, WRITEME ...
+This tutorial will focus on helping competent practitioners and experts teach their knowledge to others. It will also serve as a kickstart to teach existing community-developed open-source training lessons on topics in HPC, software engineering, machine learning etc. Building on instructor training resources developed within the CodeRefinery project and The Carpentries, the tutorial will cover the 1) science and philosophy of teaching; 2) how to teach interactive, hands-on workshops; 3) how to design interactive, hands-on training lessons; and 4) how to effectively organise in-person or online workshops.
 
-The material presented here is partly derived from two instructor training resources developed in the CodeRefinery project as well as the instructor training lesson from The Carpentries:
-
-- CodeRefinery Community Teaching
-- CodeRefinery Instructor Training
-- Carpentries Instructor Training
-
-Inspiration has also been drawn from the free online book Teaching Tech Together by Greg Wilson.
-
-After attending a workshop covering this material, learners should:
+After attending this tutorial, participants should:
 - Have increased confidence in teaching interactive workshops in online and in-person settings.
 - Be familiar with important pedagogical concepts and scientific findings about how people learn new skills.
 - Appreciate the importance of frequent hands-on practice in building skill.
