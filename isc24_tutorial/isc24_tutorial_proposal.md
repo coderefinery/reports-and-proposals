@@ -28,7 +28,7 @@ After attending this tutorial, participants should:
 - Be familiar with important pedagogical concepts and scientific findings about how people learn new skills.
 - Appreciate the importance of frequent hands-on practice in building skill.
 - Understand how learning can be improved by following certain best practices in interactive teaching.
-- Know how to backwards-design training material based on intended learning outcomes.
+- Know how to design training material and exercises based on intended learning outcomes.
 - Know about important differences between online and in-person training and how inherent challenges in online training can be overcome.
 - Be familiar with a technical approach to collaboratively developing open source lessons based on a template.
 
