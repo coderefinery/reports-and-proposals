@@ -8,7 +8,7 @@
 ### General Information
 
 **Title of the tutorial**: Best Practices in HPC Training
-**Tutorial author(s) information**: SW, MJ, DI, TW, ...
+**Tutorial author(s) information**: SW, MJ, DI, TW, RB, ...
 
 ### Abstract (Maximum words: 200)
 
@@ -155,7 +155,7 @@ full-day 7 hours
 ### Resume or CV of each presenter, including a list of recently taught courses or tutorials (2 pages maximum per presenter)
 
 - Thor Wikfeldt
-- Radovan Bast?
+- Radovan Bast
 - Yonglei Wang?
 - Samantha Wittke
 - Diana Iusan
