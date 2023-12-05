@@ -13,7 +13,7 @@
 ### Abstract (Maximum words: 200)
 
 This tutorial will focus on helping competent practitioners and experts teach
-their knowledge to others. It will also serve as a kickstart to teach existing
+their knowledge to learners. It will also serve as a kickstart to teach existing
 community-developed open-source training lessons on topics in HPC, software
 engineering, machine learning, etc. Building on instructor training resources
 developed within the CodeRefinery project and The Carpentries, the tutorial
