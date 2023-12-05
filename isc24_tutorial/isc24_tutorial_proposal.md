@@ -31,7 +31,7 @@ After attending this tutorial, participants should:
 - Know how to design training material and exercises based on intended learning outcomes.
 - Know about important differences between online and in-person training and how inherent challenges in online training can be overcome.
 - Be familiar with a technical approach to collaboratively developing open source lessons based on a template.
-
+- Know how to measure the success of the training course by collecting feedback during and after the course.
 
 ### Detailed description of the tutorial content (Maximum pages: 3)
 
