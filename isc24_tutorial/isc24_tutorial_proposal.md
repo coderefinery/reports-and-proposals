@@ -89,7 +89,7 @@ This course can be relevant for different learner personas:
 |15:30-16:00 | Practice: teaching and giving feedback|
 |16:00-16:30 | Break|
 |16:30-17:30 | Practice: teaching and giving feedback|
-|17:30-18:00 | Recap, final discussion and where to go from here|
+|17:30-18:00 | Recap, round-table discussion and where to go from here|
 
 **Description of hands-on activities, if applicable**
 
