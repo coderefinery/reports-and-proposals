@@ -12,7 +12,15 @@
 
 ### Abstract (Maximum words: 200)
 
-This tutorial will focus on helping competent practitioners and experts teach their knowledge to others. It will also serve as a kickstart to teach existing community-developed open-source training lessons on topics in HPC, software engineering, machine learning, etc. Building on instructor training resources developed within the CodeRefinery project and The Carpentries, the tutorial will cover 1) the science and philosophy of teaching; 2) how to teach interactive, hands-on workshops; 3) how to design interactive, hands-on training lessons; and 4) how to effectively organise in-person or online workshops.
+This tutorial will focus on helping competent practitioners and experts teach
+their knowledge to others. It will also serve as a kickstart to teach existing
+community-developed open-source training lessons on topics in HPC, software
+engineering, machine learning, etc. Building on instructor training resources
+developed within the CodeRefinery project and The Carpentries, the tutorial
+will cover 1) the science and philosophy of teaching; 2) how to teach
+interactive, hands-on workshops; 3) how to design interactive, hands-on
+training lessons; and 4) how to effectively organise in-person or online
+workshops.
 
 After attending this tutorial, participants should:
 
@@ -29,7 +37,14 @@ After attending this tutorial, participants should:
 
 **Overview and goals of the tutorial (takeaways for the audience)**
 
-This tutorial will cover best practices in developing training material and delivering technical training workshops. Participants will get acquainted with key concepts from pedagogical science and the philosophy of teaching, learn practical methods for teaching interactive and engaging hands-on workshops which maximise learning through careful consideration of cognitive load, acquire skill in developing effective training lessons that facilitate memory consolidation, and get practical tips and tricks on how to effectively organise in-person or online workshops.
+This tutorial will cover best practices in developing training material and
+delivering technical training workshops. Participants will get acquainted with
+key concepts from pedagogical science and the philosophy of teaching, learn
+practical methods for teaching interactive and engaging hands-on workshops
+which maximise learning through careful consideration of cognitive load,
+acquire skill in developing effective training lessons that facilitate memory
+consolidation, and get practical tips and tricks on how to effectively organise
+in-person or online workshops.
 
 After attending this tutorial, participants will:
 
@@ -44,7 +59,9 @@ After attending this tutorial, participants will:
 
 **Targeted audience**
 
-Teaching is a profession, but also something that everyone needs to be able to do to some degree, since everyone has their own personal specialties they will either teach or mentor.
+Teaching is a profession, but also something that everyone needs to be able to
+do to some degree, since everyone has their own personal specialties they will
+either teach or mentor.
 
 This course can be relevant for different learner personas:
 
@@ -76,23 +93,41 @@ This course can be relevant for different learner personas:
 
 **Description of hands-on activities, if applicable**
 
-The tutorial will include ample time for a variety of hands-on activities. 
-Participants be split into groups already during the first morning session where they take turns to teach a short snippet of a technical topic to each other - e.g. the Unix command line - followed by providing feedback to each other. This experience will form a baseline. In following sessions, participants will be split into groups of varying sizes to collectively brainstorm and discuss pedagogical concepts or provide feedback to recorded teaching demonstrations. 
-There will also be technical exercises where participants learn how to use the Sphinx Python package to develop training lessons in a team using collaborative workflows in Git.
-In the final hands-on activity, participants will again teach a topic to each other in groups and provide feedback, and reflect on how the concepts learned during the tutorial have affected their teaching compared to the baseline.
+The tutorial will include ample time for a variety of hands-on activities.
+Participants be split into groups already during the first morning session
+where they take turns to teach a short snippet of a technical topic to each
+other - e.g. the Unix command line - followed by providing feedback to each
+other. This experience will form a baseline. In following sessions,
+participants will be split into groups of varying sizes to collectively
+brainstorm and discuss pedagogical concepts or provide feedback to recorded
+teaching demonstrations.  There will also be technical exercises where
+participants learn how to use the Sphinx Python package to develop training
+lessons in a team using collaborative workflows in Git.  In the final hands-on
+activity, participants will again teach a topic to each other in groups and
+provide feedback, and reflect on how the concepts learned during the tutorial
+have affected their teaching compared to the baseline.
 
 **Updates from previous presentations, if applicable**
 
-This tutorial was taught over two half days to around 30 participants in an online training workshop targeting the EuroCC network on September 28-29, 2023 (https://enccs.se/events/best-practices-in-online-and-in-person-training/). The feedback from this workshop was exceptionally positive, with an average rating of over 9 out of 10 and 100% of participants reporting that they would recommend the training to their colleagues. 
-For the ISC tutorial, some of the exercises will be adapted to the in-person setting, and other minor improvements will be made to further improve the flow of the training.
+This tutorial was taught over two half days to around 30 participants in an
+online training workshop targeting the EuroCC network on September 28-29, 2023
+(https://enccs.se/events/best-practices-in-online-and-in-person-training/). The
+feedback from this workshop was exceptionally positive, with an average rating
+of over 9 out of 10 and 100% of participants reporting that they would
+recommend the training to their colleagues.  For the ISC tutorial, some of the
+exercises will be adapted to the in-person setting, and other minor
+improvements will be made to further improve the flow of the training.
 
 **Number of attendees from previous tutorials, if applicable**
 
-Around 30 participants attended the online workshop delivered on September 28-29 2023. This will be the first time the tutorial is taught in-person at ISC.
+Around 30 participants attended the online workshop delivered on September
+28-29 2023. This will be the first time the tutorial is taught in-person at
+ISC.
 
 **URLs to sample slides and other material**
 
-The training material - which will be somewhat updated before the tutorial - can be found at https://enccs.github.io/instructor-training/.
+The training material - which will be somewhat updated before the tutorial -
+can be found at https://enccs.github.io/instructor-training/.
 
 ## Logistics
 
