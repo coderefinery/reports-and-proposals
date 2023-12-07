@@ -148,7 +148,7 @@ full-day 7 hours
 
 **Estimated number of attendees (with short explanation, if applicable)**
 
-- 40 participants - this way the tutorial can be interactive, inclusive, hands-on... WRITEME
+Based on interest in the previously taught versions of this course, we would expect around 30 learners. To keep the tutorial as interactive, inclusive and hands-on as possible, we would like to limit the number of participants to about 40.
 - (30 participants in ENCCS workshop Sept 28-29 2023)
 
 
