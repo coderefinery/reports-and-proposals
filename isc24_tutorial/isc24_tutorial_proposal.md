@@ -94,7 +94,7 @@ This course can be relevant for different learner personas:
 **Description of hands-on activities, if applicable**
 
 The tutorial will include ample time for a variety of hands-on activities.
-Participants be split into groups already during the first morning session
+Participants will be split into groups already during the first morning session
 where they take turns to teach a short snippet of a technical topic to each
 other - e.g. the Unix command line - followed by providing feedback to each
 other. This experience will form a baseline. In following sessions,
