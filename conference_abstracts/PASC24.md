@@ -1,6 +1,6 @@
 # PASC 2024 poster abstract submission
 
-Submission deadline 22.12.23
+Submission deadline 22.12.23, info: https://pasc24.pasc-conference.org/submission/guidelines-for-posters/
 
 ## Topic (max 20 words)
 
@@ -52,4 +52,6 @@ and open lesson materials over the years.
 + more details on curriculum and other related courses
 + some details from earlier post workshops surveys
 + growing next generation RSE which are important for HPC too
-+ 
++ empahisze: all levels all domains
++ sustainability of research software
+  
