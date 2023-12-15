@@ -15,6 +15,11 @@ Applied Social Sciences and Humanities
 
 ## Author details (full names and contact details)
 
+NOTE: please add yourself
+
+Samantha Wittke, samantha.wittke@csc.fi
+
+
 ## Abstract for publication (max 200 words)
 
 NOTE: currently 198 words
