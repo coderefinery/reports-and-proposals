@@ -8,26 +8,21 @@ CodeRefinery - Teaching FAIR research software development to researchers
 
 ## Domain
 
-NOTE: None quite fits, but mabye closest are those two?
-
 Computational engineering, 
 Applied Social Sciences and Humanities 
 
 ## Author details (full names and contact details)
 
-NOTE: please add yourself
-
 Samantha Wittke, samantha.wittke@csc.fi
-
 
 ## Abstract for publication (max 200 words)
 
-NOTE: currently 198 words
+NOTE: currently 199 words
 
 CodeRefinery is a project funded by Nordic e-infrastructure collaboration (NeiC) supporting students and researchers 
 across all research fields by teaching FAIR research software and development and basic Research Software Engineering practices. 
 The training materials are developed collaboratively and publicly using markdown, Sphinx and Github-pages. 
-Everything is open source and can be reused, remixed and extended upon under CC-BY 4.0 license.
+All materials are open source and can be reused, remixed and extended upon under CC-BY 4.0 license.
 The initiative has successfully held interactive hands-on online and free workshops based on these materials on computational Science topics for over 300 registrants at a time. 
 Particularly well liked topics are the introduction to collaborative distributed version control, software documentation and modular code development. 
 The lesson on reproducible research aims on summarizing the whole workshop and putting it into the context of participants current or future work.
@@ -38,25 +33,25 @@ and open lesson materials over the years.
 
 ## Abstract for review (max 800 words)
 
-NOTE: currently just a copy of above plus bullet points
-
 CodeRefinery is a project funded by Nordic e-infrastructure collaboration (NeiC) supporting students and researchers 
 across all research fields by teaching FAIR research software and development and basic Research Software Engineering practices. 
-The training materials are developed collaboratively and publicly using markdown, Sphinx and Github-pages. 
-Everything is open source and can be reused, remixed and extended upon under CC-BY 4.0 license.
+The project is currently in its last phase of funding and the team is working on making the project sustainable in the future. 
+One goal of this phase of the project is to go beyond the reach of our current advertising (mainly Nordics and central Europe) for the workshops and materials we develop.
+As this conference hosted a few research software engineering (RSE) related events in the last year, it seemed like a good fit to also present our project to make scientists of Europe aware of the project. Many of the CodeRefinery core team are working in HPC centers, which provides a nice opportunity to also collaborate on HPC and scientific computing related trainings (e.g. Aalto Univeristies Python for scientific computing course (https://scicomp.aalto.fi/training/scip/python-for-scicomp-2023/)).
+In the CodeRefinery project, the training materials are developed collaboratively and publicly using markdown, Sphinx and Github-pages. 
+All training materials, and for example also our manuals are open source and can be reused, remixed and extended upon under CC-BY 4.0 license.
 The initiative has successfully held interactive hands-on online and free workshops based on these materials on computational Science topics for over 300 registrants at a time. 
-Particularly well liked topics are the introduction to collaborative distributed version control, software documentation and modular code development. 
-The lesson on reproducible research aims on summarizing the whole workshop and putting it into the context of participants current or future work.
-The bi-annual workshops themselves combine livestream, co-teaching, parallelized and threaded questions and answers as well as parallel connected in-person events. 
+While in the beginning of the project in 2016, workshops were mainly in-person with around 30 participants, the pandemic forced us as well as everyone else to rethink the way we deliver workshops.
+The bi-annual workshops themselves nowadays combine livestream, co-teaching, parallelized and threaded questions and answers as well as parallel connected in-person events.
+With the new way of delivering workshops, it was possible to scale beyond one classroom while still keeping the workshops hands-on and interactive.
 Leaving the traditional online teaching strategy and creating our own visiion of how online teaching could be required adjusting to alternative technologies and mindset. 
+Over the years we have had Scientists from all levels join the workshops: from undergraduate, graduate, post-doc to professors from all domains.
+Particularly well liked topics are the introduction to collaborative distributed version control, software documentation and modular code development. 
+The lesson on reproducible research summarizes the whole workshop and puts it into the context of participants current or future work.
+The materials and workshops of the project will help the HPC and scientific computing community to grow a next generation of Research Software Engineers and researchers with sufficient knowledge in FAIR software development practices to be part of a sustainable research software ecosystem.
 This contribution aims at sharing our current teaching strategy as well as our lessons learned from developing our workshop style 
-and open lesson materials over the years.
+and open lesson materials over the years. 
 
-+ something on why it should be at this conference: RSE related events last year, scientists need to know this kind of stuff exists
-+ the relation to HPC
-+ more details on curriculum and other related courses
-+ some details from earlier post workshops surveys
-+ growing next generation RSE which are important for HPC too
-+ empahisze: all levels all domains
-+ sustainability of research software
+
+
   
