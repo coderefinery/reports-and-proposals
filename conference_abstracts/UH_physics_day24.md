@@ -11,5 +11,5 @@ Something along the lines of:
 - Why would Physicists care?
 - How can they participate/access?
 - Contact
-
+- https://coderefinery.org/about/impact/ shows that most attendees have been from physics
 - > Advertising that CR exists :) 
