@@ -1,5 +1,7 @@
 # Abstract for Physics Day '24 by Uni Helsinki
 
+Event link: https://www.helsinki.fi/en/conferences/physics-days-2024/programme
+
 DL: 31.1
 
 Track: Education and outreach 
