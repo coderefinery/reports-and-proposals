@@ -13,7 +13,7 @@ Draft:
 Reproducibility and openness is becoming of ever more crucial importance in
 any research ecosystem. In physics as in many other domains, research often
 relies on software written as a by-product, and it is an essential part of the
-researche workflow. However, software is often overlooked from the
+research workflow. However, software is often overlooked from the
 reproducibility point of view. This can come from many reasons, like the focus
 being on research publications and data rather than software. It can also
 originate from researchers not being adequately prepared to write reusable and
