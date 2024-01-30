@@ -23,17 +23,17 @@ any research ecosystem. In physics as in many other domains, research often
 relies on software written as a by-product, and it is an essential part of the
 researcher workflow. However, software is often overlooked from the
 reproducibility point of view. This can come from many reasons, like the focus
-being on Research publications and data rather than software. It can also
+being on research publications and data rather than software. It can also
 originate from researchers not being adequately prepared to write reusable and
 sustainable software. The CodeRefinery project (https://coderefinery.org/)
 aims at supporting researchers to write reproducible and sustainable research
 code no matter their domain or career stage.
 
-Come and here how the CodeRefinery workshops can help you get started with
+Come and hear how the CodeRefinery workshops can help you get started with
 tools and practices that will enhance the reusability and sustainability of
 your software, such as version control, documenting and sharing code, modular
 code development, automating testing, etc. The workshops are held twice a year
-online, and are free of charge and open to all researchers regardless of their
+online, are free of charge and open to all researchers regardless of their
 field, background or experience in developing software.
 
 Finally, CodeRerinery is not just workshops, it also is a community of people
