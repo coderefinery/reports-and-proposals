@@ -1,9 +1,8 @@
 # Bring your own classroom to a CodeRefinery workshop
 
 CodeRefinery is a project teaching FAIR research software and development 
-and basic Research Software Engineering practices to students and researchers across all research fields. CodeRefinery is funded by Nordic e-infrastructure collaboration (NeiC).
+and basic Research Software Engineering practices to students and researchers across all research fields. CodeRefinery is a collaboration between universities and organizations in the Nordics funded by Nordic e-infrastructure collaboration (NeiC).
 
-- collaborative project between universities and organizations in the Nordics
 
 Our workshops are streamed and recorded so that anyone can follow them. Registered participants have the possibility to interact with the instructors on stream via a collaborative document. The open source materials (available at https://coderefinery.org/lessons/core/) include lectures as well as hands-on activities. Sharing reusable training materials is one of the projects core values.
 
