@@ -1,21 +1,11 @@
-
-
-
-
----
-
-# Lesson material development using the CodeRefinery lesson template
+# Bring your own classroom to a CodeRefinery workshop
 
 CodeRefinery is a project funded by Nordic e-infrastructure collaboration (NeiC) 
 supporting students and researchers across all research fields by teaching FAIR research software and development
 and basic Research Software Engineering practices.
 
-For our workshops lesson materials we have developed our own lesson template to cater to the needs of a workshop serving many different audiences.
+Our workshops are streamed so that anyone (awake at the time) can follow them. Registered participants have the possibility to interact with the instructors on stream via a collaborative document. The open source reusable materials (available at https://coderefinery.org/lessons/core/) include lectures as well as hands-on activities.
 
-The lesson material is written as Markdown files and built with the static site generator Sphinx; a GitHub action automates the building of the materials and making it available via GitHub Pages. 
+For the hands-on activities, one effective way to learn is by learning together. The way we facilitate this in a streamed workshop is via local partners. The local partner provides an online or in-person room with a team-lead. Everyone watches the stream together and at exercise time, the stream pauses and exercises can be discussed in the group under guidance of the team lead. This way, the local organizations do not have to provide their own full course, but can join our workshops with relatively low effort.
 
-Many of the steps involved in building the materials, we also teach in our workshops as part of our [Documentation lesson](https://coderefinery.github.io/documentation/) which is also an example of how the lesson materials can look.
-
-This contribution will describe the process of creating nice looking learning materials using the CodeRefinery lesson template. Including the implementations of information boxes, toggled solutions, tabs and code highlighting. 
-
-
+This contribution will motivate and describe the workshop setup for scaling an interactive workshop to a few hundred participants while still keeping the interaction and community experience of a local small workshop. It will show some advantages and challenges, and how those can be addressed, as well as how YOU can join our next workshop.
