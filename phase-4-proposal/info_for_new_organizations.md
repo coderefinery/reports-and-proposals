@@ -1,3 +1,7 @@
+# Information for potential CodeRefinery partners
+
+## What is CodeRefinery
+
 CodeRefinery as a project has existed since 2016, under various funding models. In this period, we have trained over XX students, 
 researchers, and infrastructure staff to advance FAIRness of software management and development practices, 
 in over XX workshops. 
@@ -7,6 +11,17 @@ The need for teaching researchers to develop software that contributes to reprod
 as well as the need to update and develop world-class curriculum does not stop at the end of the CodeRefinery project. 
 To keep this momentum, contribution by both skilled and motivated CodeRefinery instructors and coordination effort are essential. 
 Therefore we are approaching the organizations that have training and digital skill development as a part of their mandates within and outside the Nordics.
+
+## What are the benefits of becoming a partner? 
+
+Benefits for participating organizations (depending on the level of commitment):
+    • Continuation of CodeRefinery into the future and thus access to more workshops which are in high demand.
+    • Influence on course material development.
+    • Participation in collaborative training and train-the-trainer events.
+    • Cross-advertisement of workshops to a wide network of trainers and learners.
+    • Partners are acknowledged in every workshop they contribute to and highlighted on our website and social media.
+
+## What does becoming a partner actually mean?
 
 We kindly ask interested organizations to indicate with a letter of intent on how many person months 
 or what FTE share you plan to contribute to this project per year to support our application towards the 
@@ -25,10 +40,5 @@ In our proposed mode, CodeRefinery continues to exist as an open collaboration n
     No one can be forced to do anything that is not beneficial to their organization.
     • Partners have a responsibility for advertising to their own audiences to attend workshops. 
 
-Benefits for participating organizations (depending on the level of commitment):
-    • Continuation of CodeRefinery into the future and thus access to more workshops which are in high demand.
-    • Influence on course material development.
-    • Participation in collaborative training and train-the-trainer events.
-    • Cross-advertisement of workshops to a wide network of trainers and learners.
-    • Partners are acknowledged in every workshop they contribute to and highlighted on our website and social media.
+
     
