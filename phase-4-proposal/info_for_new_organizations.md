@@ -119,3 +119,24 @@ By becoming a partner, your organization actively contributes to advancing
 research software development, fosters a culture of collaboration, and plays a
 vital role in shaping the future of open, high-quality training for researchers
 and research software engineers.
+
+## If Partnership Isn’t the Right Path for You
+
+If the partnership model doesn’t seem like the right fit at the moment, there are still many meaningful ways you can support and engage with CodeRefinery:
+
+- **Share Our Events**
+    Help spread the word by sharing our workshops and events with your community. You can stay informed by subscribing to our newsletter, visiting our website, or following us on social media.
+
+- **Encourage Staff Participation**
+    Allow your staff to join our workshops and train the trainer program as part of their professional development. They’ll gain valuable skills while supporting their growth in research software engineering.
+
+- **Support Individual Engagement Through the Ambassador Program**
+    The CodeRefinery ambassador program offers individuals an opportunity to join a community of practice, stay informed, and engage with CodeRefinery activities.
+
+- **Invite CodeRefinery Contributors**
+    Bring CodeRefinery expertise to your organization or events by inviting our contributors to deliver a talk or workshop on relevant topics, tailored to your audience’s needs.
+
+By supporting CodeRefinery in these ways, you can still play an important role in advancing better practices in research software development.
+
+
+
