@@ -1,33 +1,44 @@
-THIS DOCUMENT IS MEANT AS A ROUGH TEMPLATE FOR THE CONTENT, PLEASE ADAPT THE TEXT TO YOUR SITUATION AND NEEDS!
+The document below is a template for a letter of commitment to the CodeRefinery
+project, phase 4, 2025-2028.
 
-To whom it may concern:
+**Please adapt the text to your situation and requirements.**
 
-INSTITUTION_OR_TEAM_NAME is pleased to see the continuation of the CodeRefinery project, and is happy to continue as a member of the collaboration.
-Our contribution to CodeRefinery will be administered by the TEAM NAME. 
-NAME supports DESCRIPTION, and we have certainly noticed the importance of practical computing skills taught at an accessible level for researchers to do science.
+---
 
-==== PICK WHAT PARAGRAPHS ARE RELEVANT =====
+Letter of commitment: CodeRefinery 4.0 - Continuing support 2025-2028
 
-The CodeRefinery phase 4 plan aligns with our plans for the future, and NAME will contribute approximately like we have been in the past. 
-We do not explicitly divide staff between teaching and other responsibilities, 
-but on average we expect to contribute about XX FTE/year in teaching which could be shared among a general CodeRefinery audience.
 
-We have not yet been active in CodeRefinery, but we see the value in this.  
-We would like to be involved in CodeRefinery stage 4 as part of the expansion.  
-We don't yet know what teaching staff we can provide, but we would like to contribute some co-instructors, 
-and will work to advertise CodeRefinery workshops to our community while building our participation.
+To whom it may concern,
 
-Examples of past courses at our institution relevant to CodeRefinery include NAMES.
 
-=====
+**[Your organization]** is pleased to continue its collaboration with the
+CodeRefinery project in 2025-2028. We value the project's focus on equipping
+researchers with practical computing skills delivered at an accessible level,
+enabling them to excel in their scientific endeavors.
 
-In addition to direct contributions, we will actively support the project by advertising its workshops and materials.
-We will also enable our specialists to travel as needed to further the project’s objectives.
+The Phase 4 plan of CodeRefinery aligns closely with our organizational goals.
+We are committed to supporting the project with approximately **[N
+person-months]** per year dedicated to workshops, lesson development, and
+outreach activities.
 
-We see a good value in NeIC support, because it will ensure that shared teaching can continue, 
-greatly increasing our impact and our benefit from outside courses.
+We will enable our specialists to travel as needed to participate in team
+meetings and lesson development workshops.  In addition to the above
+contributions, we will actively support the project by advertising its
+workshops and materials.
 
-Best regards,
+We are enthusiastic about supporting this project which is coordinated by NeIC,
+recognizing that this support ensures the continuation of shared teaching
+efforts. Such collaboration significantly amplifies both the impact of the
+project and the benefits we gain from external courses.
 
-NAME
-POSITION
+**[Your organization]** is committed to be part of this important initiative
+and looks forward to continuing contributing to its success.
+
+
+Sincerely,
+
+**[Your name]**
+
+**[Your title]**
+
+**[Your organization]**
