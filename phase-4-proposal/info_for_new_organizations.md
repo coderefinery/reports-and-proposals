@@ -1,5 +1,6 @@
 # Information for potential CodeRefinery partners
 
+
 ## What is CodeRefinery?
 
 CodeRefinery is a community-driven initiative designed to empower researchers
@@ -42,11 +43,13 @@ research.
 
 Benefits for Partnering Organizations
 
-- **Continuous Access to High-Demand Training**
-    By supporting the continuation of CodeRefinery, partners ensure the
-    availability of high-quality workshops that address the growing need for
-    research software development skills. These workshops empower researchers
+- **Continuous Access to Training**
+    These workshops empower researchers
     and enhance organizational capacity in digital and computational skills.
+    By being a partner, you can influence scheduling and make sure that the training
+    is visible to your students, researchers, and staff.
+    And by supporting the continuation of CodeRefinery, you also help to ensure
+    that we can continue to offering these workshops.
 
 - **Strategic Input on Curriculum Development**
     Partners have the opportunity to shape the evolution of present and new
