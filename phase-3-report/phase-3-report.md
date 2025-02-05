@@ -1,7 +1,7 @@
 ---
-title: "CodeRefinery (phase 2) report"
+title: "CodeRefinery (phase 3) report"
 author: "Radovan Bast"
-date: "2022-10-23"
+date: "2025-02-XX"
 format:
   pdf:
     toc: true
@@ -10,13 +10,18 @@ format:
 # format: docx
 ---
 
+TODO: 
+  - some sections leftover from phase 2 report (FIXME-old)
+  - some new texts to be written (FIXME)
+  - some links and number to be filled in (FIXME) and XX
+
 # Abstract
 
 This report summarizes the achievements of the CodeRefinery project phase 3
 (October 2021 (FIXME) - February 2025), and documents experiences and recommendations
 for improvements in the working methods of future projects.
 
-(FIXME) The project operated with a budget of 3 FTE distributed over 5 partners:
+(FIXME) The project operated with a budget of XX FTE distributed over XX partners: XX,
 NeIC, Sigma2, SNIC, DeiC, and CSC.
 
 The report is drawn-up in agreement between NeIC as the project owner
@@ -81,6 +86,7 @@ The objectives of this project were:
 - [Proposal to the NeIC open call 2021](https://coderefinery.org/about/reports/open-call-2021-proposal.pdf)
 - [NeIC open call 2021 evaluation report](https://coderefinery.org/about/reports/open-call-2021-evaluation.pdf)
 - [Collaboration agreement (phase 3)](https://coderefinery.org/about/reports/phase-3-collaboration-agreement.pdf)
+- [Project proposal (phase 4)](https://github.com/coderefinery/reports-and-proposals/blob/main/phase-4-proposal/coderefinery-phase4-proposal.pdf)
 
 (FIXME) Add latest documents
 
@@ -126,16 +132,22 @@ The project has developed and is maintaining and updating a broad curriculum of 
   - [Reproducible research](https://coderefinery.github.io/reproducible-research/)
 
 - (FIXME)Instructor training and manuals
-  - [Instructor training](https://coderefinery.github.io/instructor-training/)
+  - [Instructor training /Train the trainer / community teaching](XX)
   - [CodeRefinery manuals, our guides and hints on running CodeRefinery](https://coderefinery.github.io/manuals/)
 
 - Installation guides
   - [Installation instructions](https://coderefinery.github.io/installation/) (see your workshop page for which ones are actually needed for you)
 
+- CodeRefinery in an hour/ a day
+  - [CodeRefinery in an hour](https://coderefinery.github.io/research-software-engineering/)
+  - [CodeRefinery in a day](XX)
+
 - Special topics
   - [CMake workshop (based on ENCCS version)](https://coderefinery.github.io/cmake-workshop/)
   - [Mixed Martial Arts: Interfacing Fortran, C, C++, and Python](https://coderefinery.github.io/mma/)
-  - [Data visualization using Python](https://coderefinery.github.io/data-visualization-python/)
+  - [Major updates to: Data visualization using Python](https://coderefinery.github.io/data-visualization-python/)
+  - [Reproducible Python for Machine Learning](https://coderefinery.github.io/reproducible-python-ml/)
+
 
 The lessons and manuals are maintained on
 [GitHub](https://github.com/coderefinery) and are all open-source, licensed
@@ -146,6 +158,10 @@ A number of video recordings of CodeRefinery lessons and workshops and
 [Research Software Hour](https://researchsoftwarehour.github.io/) sessions can be
 found on our [YouTube
 channel](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg/videos).
+
+## Derivative materials and programs
+
+(FIXME)
 
 
 ## Embracing online teaching and growing our audience
@@ -168,7 +184,7 @@ room"). Our lessons learned are documented in two blog posts (see references).
 ## Long term survey results
 
 (FIXME) In XX we have discontinued the pre workshop surveys. We have learned all we can
-about the participants in earlier surveys and wanted to reduce the participant workloads.
+about the participant personas in earlier surveys and wanted to reduce the participant workloads.
 We still ask some (voluntary) demographic questions as part of the registration. 
 
 We continued to send out a survey to all participants of CodeRefinery workshops around
@@ -186,7 +202,8 @@ in https://coderefinery.org/blog/2024/08/10/post-workshop-survey/.
     - CarpentryCon participation
         - link to poster, slides
         - blogpost from SSI
-- 
+- DRA connection
+- OLS
 
 
 ## (FIXME) GitLab code repository hosting
@@ -209,20 +226,47 @@ This service has over XX active users, XX groups, with over XX active projects.
 
 Starting XX, the service will continue to operate under DeiC.
 
-## (FIXME) CodeRefinery ambassador program
+## CodeRefinery ambassador program
 
-- ...
+In 2024 we started the [CodeRefinery ambassador program](https://coderefinery.org/join/individuals/#coderefinery-ambassador) as a way to engage and support people
+that like the project but do not have the resources or background knowledge 
+to support the project as a partner, co-instructor or helper. 
+Since the start of the program in XX 2024 we held 5 ambassador calls with 
+5-15 participants each to get to know each other, share updates about the project 
+and discuss open questions and ideas. To date, 26 people have signed up for the ambassador e-mail list. 
+Ambassadors are from different organizations and backgrounds from all over Europe.
+We got great feedback and were able to provide support where needed; e.g. 
+shared stickers for on-site workshops, provided a short slide summary of the project, 
+and event posters to print and distribute at the ambassadors organizations.
+
+(FIXME) - more here?
+
+## In-person team meeting
+
+(FIXME) have there been more than the Tromsö one? Fix belwo to text
+
+- Something about sharing organizational burden by having every team member prepare one topic
+- Linking resulting blogposts
+- Overall important for team building. Add photo? 
+
+## (FIXME) Open House events
+
+(FIXME) was there something in 21-14? Fix and expand text below
+
+We slowly restarted CodeRefinery Open House events in 2024. 
+- OpenHouse on workshop week 2 -> Jupyter lesson may be replaced with VSCODE in future; addition of shell crash course as pre-workshop session, installation session before week 2 for conda 
+- OpenHouse on "advanced git/ Git masterclass" -> CR community and others, collecting materials and identifying gaps. link to blogpost(s), question of how to best host the bits and pieces for "choose your own adventure"
 
 ## Nordic research software engineers
+
+(FIXME) add dates and some more info to below events, unconference? Advent of code?
 
 A number of CodeRefinery members are involved in [Nordic
 research software engineers (RSE)](https://nordic-rse.org/) community building.
 
-We have helped organizing the [Nordic-RSE Conference in 2024](XX), [Finnish RSE meetup](XX), XX.
+We have helped organizing the [Nordic-RSE Conference in 2024](XX), [event blogpost](https://nordic-rse.org/blog/nrse-conference/), [RSE blogpost based on discussion at event](https://nordic-rse.org/blog/why-rse/), [Finnish RSE meetup](XX) [event blogpost](https://nordic-rse.org/blog/first-finnish-rse-meetup/), XX.
 
-## (FIXME) Open House events
 
--...
 
 ## (FIXME-old) Research Software Hour
 
@@ -234,29 +278,162 @@ research software.
 ## Social media, newsletter, and chat
 
 We added further channels to our outreach activities: LinkedIn (XX), Mastodon (XX), BlueSky (XX) 
-and discontinued posting on Twitter/X in February 2025.
-Summary of number of followers/subscribers: 
-    - LinkedIn: 
-    - Mastodon: 
-    - BlueSky: 
-    - Newsletter: 
-    - Chat digest: 
-    - Ambassadors:  
-    - Zulip chat: 
+and discontinued posting on Twitter/X (820 followers) in February 2025.
+Summary of number of followers/subscribers to our active channels: 
+    - LinkedIn: 372
+    - Mastodon: 316
+    - BlueSky: 76
+    - Newsletter: 193 
+    - Chat digest: 26
+    - Ambassadors: 26
+    - Zulip chat: 499
 
-## Presentations
+## Presentations and other contributions to conferences
 
-(FIXME)
+## 2024
+
+- CarpentryConnect in Heidelberg, Germany in November 2024: [Poster](https://github.com/coderefinery/posters/blob/main/2024_CarpentryCon.pdf)
+  and [lightning talk](https://github.com/coderefinery/presentations/blob/main/2024-CarpentryCon.pdf) on ["Teaching 'good enough' research software engineering skills"](https://doi.org/10.5281/zenodo.14739411) (Samantha Wittke)
+- ["The CodeRefinery project for training in research software engineering"](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/presentations/main/2024-hpc-train-ecosystem-europe.md/)
+  at [The HPC Training Ecosystem in Europe (Online)](https://enccs.se/news/2024/10/the-hpc-training-ecosystem-in-europe/),
+  Oct 22, 2024 (Johan Hellsvik)
+- [Bring your own classroom to a CodeRefinery workshop](https://zenodo.org/records/13625954) at RSECon in Newcastle, UK in September 2024 (Samantha Wittke).
+- Participation in Panel discussion on "Towards adoption of FAIR4RS: equipping researchers with FAIR research software skills" at RSECon 2024 (Samantha Wittke) 
+- ["Practical software licensing"](https://zenodo.org/records/11554001) at [DataverseNO](https://dataverse.no/) webinar,
+  Jun 10, 2024 (Radovan Bast)
+- ["CodeRefinery - My pathway into Research Software Engineering"](https://zenodo.org/records/11204358)
+  at RSEHPC/ISC24, Jun 10, 2024 (Samantha Wittke)
+- ["Competence building, the CodeRefinery way"](https://zenodo.org/records/11317382)
+  at the [NeIC 2024 conference](https://indico.neic.no/event/259/)
+  in Tallinn, May 28, 2024 (Radovan Bast)
+- [Presentation](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/presentations/main/2024-liu-org.md/)
+  to the Open Science Group, Linköping University, May 7, 2024 (Johan Hellsvik)
+- [SIGHPC Education Webinar CodeRefinery - collaboratively training the next generation of Research Software Engineers](https://sighpceducation.acm.org/events/code_refinery/),
+  [presentation slides](https://zenodo.org/records/11065411),
+  [recording](https://youtu.be/q4WXp89SSQI),
+  Apr 25, 2024 (Samantha Wittke, Radovan Bast)
 
 
-## Articles about CodeRefinery
+## 2023
 
-(FIXME)
+- [Research Software Hour flashtalk](https://zenodo.org/records/10126375) at Supercomputing 23
+  [BoF on Scientific Software and the People Who Make it Happen: Building Communities of Practice](https://betterscientificsoftware.github.io/swe-cse-bof/2023-11-sc23-bof/),
+  Nov 14, 2023 (Radovan Bast) - [blogpost on the session](https://bssw.io/blog_posts/reflecting-on-our-community-the-sc23-bof-on-scientific-software-and-the-people-who-make-it-happen-building-communities-of-practice)
+- CodeRefinery talk at RSECon23:
+  ["Experiences from teaching basic RSE skills with CodeRefinery"](https://zenodo.org/records/8317155), Sep 05, 2023 (Samantha Wittke, Radovan Bast)
+- [CodeRefinery flashtalk](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/presentations/main/2023-ISC-lightning_WS-challenges.md/)
+  in BoF at ISC - Challenges in reverse hybrid teaching, May 23, 2023 (Matias Jääskeläinen)
+- CodeRefinery flashtalk and participation in panel discussion Education in HPC: A Lifelong Effort,
+  [EuroHPCSummit](https://www.eurohpcsummit.eu/), Mar 22, 2023 (Johan Hellsvik)
+- ["CodeRefinery: What We Learned from Teaching Software Engineering Practices to Students and Researchers in Nordics and Beyond"](https://doi.org/10.6084/m9.figshare.22191292.v1))
+  at SIAM Conference on Computational Science and Engineering 2023 (Radovan Bast)
+- CodeRefinery short talk
+  ["CodeRefinery - a hub for FAIR Software practices"](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/presentations/main/2023-derse.md/)
+  at deRSE as part of the Teaching and Learning Research Software Engineering workshop, Feb 21, 2023 (Samantha Wittke)
+
+
+## 2022
+
+- ["About the CodeRefinery project"](https://doi.org/10.5446/60140) at the
+  [EuSSI training bazaar](https://eussi.org/bazaar/) - Nov 21, 2022 (Matias Jääskeläinen)
+- "CodeRefinery - a hub for FAIR Software practices" at
+  [DeiC conference 2022](https://www.deic.dk/en/conference/2022/program-day-1) (Radovan Bast)
+
+
+## Zenodo community
+
+We added the [Zenodo CodeRefinery
+community](https://zenodo.org/communities/coderefinery/).  This way,
+presentation slides don't disappear, they can be cited, and you can find them
+all in one place.
+
+Everyone can submit their own presentations or derivative work to the CodeRefinery community on Zenodo.
+This community is not only for lessons but also presentations and reports.
+
+## Mentions of CodeRefinery in other publications
+
+
+- I. A. Cosden, K. McHenry and D. S. Katz, "Research Software Engineers: Career Entry Points and Training Gaps," in Computing in Science & Engineering, vol. 24, no. 6, pp. 14-21, Nov.-Dec. 2022, doi: 10.1109/MCSE.2023.3258630 or on arxiv; page 7
+- US Research Software Engineer Association, & IEEE Computer Society. (2023). Research Software Engineers: Creating a Career Path—and a Career. Zenodo. https://doi.org/10.5281/zenodo.10073233; page 19
+- Barker, M., Breitmoser, E., Broadbent, P., Chue Hong, N., Hettrick, S., Lampaki, I., Quinn, A., & Taylor, R. (2024). Software and skills for research computing in the UK. Zenodo. https://doi.org/10.5281/zenodo.10473186; page 15
+- Goth F, Alves R, Braun M et al. Foundational Competencies and Responsibilities of a Research Software Engineer [version 1; peer review: 2 approved]. F1000Research 2024, 13:1429 (https://doi.org/10.12688/f1000research.157778.1) 
 
 
 ## Blog posts
 
-(FIXME)
+(FIXME) Add links to the bloposts
+
+- CodeRefinery Open House - advaced git / git masterclass (2025-01-31)
+  - Report from our open house session on advaced git / git masterclass on 14.01.25
+- CodeRefinery - Celebrating eight years (2024-09-19)
+  - Continuing eight years of collaboratively teaching good enough research software engineering practices
+- CodeRefinery train the trainer workshop (2024-09-09)
+  - Report and insights gathered during our train the trainer workshop in August/September 2024
+- Bring your own classroom to a CodeRefinery workshop (2024-08-19)
+  - Join a CodeRefinery workshop with your own classroom and help us scale
+- Results from our 2024 post workshop survey (2024-08-10)
+  - In this blog post we summarize the feedback and suggestions collected from participants of workshops from 2022 and 2023.
+- Citation Information for Open Source Lessons (2024-07-30)
+  - Discussing the current state and potential future applications of the Citation File Format for lessons
+- Summary of business and financing models -planning session Tromsø 2024 (2024-06-17)
+  - Discussing possible business and financing models for CodeRefinery
+- Why should your organization support CodeRefinery and how? (2024-06-07)
+  - Organizations can support the CodeRefinery project in several ways to make it sustainable and can have a mutually advantageous collaboration.
+- In-person meeting summary: Community (2024-04-20)
+What is the CodeRefinery community to you?
+- In-person meeting summary: Onboarding (2024-04-20)
+Onboarding new people to the community
+- Drafting a governance structure for 2025 and beyond (2024-04-19)
+  - We are working on defining a mission, vision, guiding principles, and a decision body for CodeRefinery in 2025 and beyond. This is an early draft.
+- We have completely changed our Git lessons. Hopefully to the better. (2024-04-19)
+  - We don't start on the command line anymore. Instead, we start in the web interface of a Git hosting service and offer several tracks to follow the lesson.
+- The Modular Code Developement Lesson (2024-04-19)
+- CodeRefinery Social Media Strategy (2024-04-19)
+- Asynchronous vs. Live Online Teaching: Understanding the Pros and Cons (2024-04-18)
+- In-person meeting: install instructions update (2024-04-04)
+  - We looked at the installation instructions for CodeRefinery workshops and tried to figure out how to improve them
+- In-person meeting summary: video production (2024-04-04)
+  - The video production session provided a hands-on experience in what goes on behind the scenes. It wasn't that hard.
+- Help us do the next CodeRefinery workshop (2024 H2) (2024-03-25)
+  - Our workshop in 2024 March went well. But we need help if we want to do this again.
+- Anyone want a streaming training workshop? (2024-03-17)
+  - CodeRefinery's streaming setup is getting fairly professional. Anyone want to learn how to reproduce it?
+- Recap of the first week of the spring 2024 workshop (2024-03-15)
+  - Looking back at week one of the CodeRefinery workshop and the big rework of the version control lessons
+- Help us make usable IDE/git install instructions (2024-02-29)
+  - We want our workshops to be more usable than before, and that means aligning with best practices.
+- Workshop format (2024-02-27)
+  - Discussions on Workshop format and how it affects lesson development
+- Summary from a brainstorming meeting about the project future (2024-01-24)
+  - Screenshots and summary from our concept board.
+- Lessons learned from the September 2023 online workshop (2023-12-05)
+- What we plan to improve for the September 2023 workshop (2023-06-25)
+  - We encourage the community to give us feedback on these ideas.
+- Lessons learned from the March 2023 online workshop (2023-04-12)
+- CodeRefinery workshop, 21-23 and 28-30 March 2023 (2023-02-14)
+  - Our March workshop is soon, and you can join alone, as a team, or as a volunteer.
+- Learner teams in courses (2022-11-28)
+  - Teams can provide high-quality interaction even in large courses.
+- Livestreaming courses (2022-11-14)
+  - Livestream courses have changed how we teach by allowing unprecedented scaling possibilities.
+- Lessons learned from the Sep 2022 online workshop (2022-11-08)
+- CodeRefinery Mastodon account (2022-11-08)
+  - CodeRefinery has started a Mastodon social media account.
+- Video publishing supports more learning styles (2022-11-08)
+  - Publishing course videos supports more learning styles and doesn't have to affect privacy.
+- Reverse hybrid teaching (2022-11-07)
+  - 'Reverse hybrid' is instructors remote, students local - possibly spread among different locations in small groups.
+- Co-teaching and scaling up (2022-10-31)
+  - Co-teaching replaces (forced?) learner interaction with natural interaction between co-instructors.
+- Parallel chat ("HackMD") and scaling teaching (2022-10-24)
+  - Parallel chat via a text document enables interactively at scale when online teaching.
+- Python for Scientific Computing open for registration and collaborators (2022-10-21)
+  - CodeRefinery teaching strategies and the future of teaching (2022-10-17)
+- Outcomes from online hackathon about measuring the impact of CodeRefinery workshops (2022-05-18)
+- Our plans to improve our workshop registration process (2022-05-04)
+- Lessons learned from the May 2021 online workshop (2021-11-25)
+- Towards citable lessons (2021-11-21)
+- Lessons learned from phase 2 of the project (2021-11-20) 
 
 
 # (FIXME) Collected experiences and recommendations
