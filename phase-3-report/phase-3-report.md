@@ -1,8 +1,8 @@
 ---
 title: "DRAFT: CodeRefinery (phase 3) report"
-subtitle: "version: 2025-02-09-23:00"
+subtitle: "version: 2025-02-12-23:00"
 author: "Radovan Bast and Samantha Wittke"
-date: "2025-02-09"
+date: "2025-02-12"
 format:
   pdf:
     toc: true
@@ -55,6 +55,9 @@ funding partners:
   teachers and helpers for CodeRefinery events as part of NAISS training.
   Staff based in Sweden has over the years contributed to lesson development,
   teaching, and hosting of individual events, on-site as well as online.
+
+In addition to the in-kind contributions, the project received a
+**travel/conference budget** of 110k NOK/ year contributed by NeIC.
 
 
 # Project goals
@@ -345,6 +348,12 @@ channel](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg/videos).
 
 Derivative work based on our material is collected on
 [this webpage](https://coderefinery.org/lessons/reusing/).
+
+Other organizations mentioning CodeRefinery lessons:
+
+- <https://de-rse.org/learn-and-teach/learn/>
+- <https://de-rse.org/learn-and-teach/teach/>
+- <https://www.esciencecenter.nl/training-materials/> (see also [this tracking issue](https://github.com/coderefinery/reproducible-research/issues/266))
 
 
 ## Community management
