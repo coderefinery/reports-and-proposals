@@ -1,8 +1,8 @@
 ---
 title: "DRAFT: CodeRefinery (phase 3) report"
-subtitle: "version: 2025-02-16-22:00"
+subtitle: "version: 2025-02-17-21:00"
 author: "Radovan Bast and Samantha Wittke"
-date: "2025-02-16"
+date: "2025-02-17"
 format:
   pdf:
     toc: true
@@ -24,6 +24,11 @@ years (March 2022 -- February 2025), with contributions from the following 8
 funding partners:
 
 - [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no): 11 PM/year for project management, workshop coordination, and community management.
+  NeIC assigned the Project owner (Tomasz Malkiewicz, CSC -- IT Center for
+  Science, Finland) to support the project manager and to chair the steering
+  group. NeIC also provided administrative coordination following the [PPS
+  model](https://www.tietoevry.com/en/create/pps/), set up collaboration- and
+  service agreeements, and processed invoices.
 
 - [Aalto University, Finland](https://scicomp.aalto.fi/about/science-it/): 6
   PM/year for lesson development, instructing, helping, outreach, streaming
@@ -129,12 +134,41 @@ During this phase of the project we have delivered:
   These workshops consist of 6 half-days of training, 2 on-boarding days, and
   sometimes also 2 bring-your-own-code sessions. These events involve 5-10
   instructors, helpers, and exercise leads.
+
+  - [Online, Sep 10--19, 2024](https://coderefinery.github.io/2024-09-10-workshop/)
+  - [Online, Mar 12--21, 2024](https://coderefinery.github.io/2024-03-12-workshop/)
+  - [Online, Sep 19--28, 2023](https://coderefinery.github.io/2023-09-19-workshop/)
+  - [Online, Mar 21--23, 2023](https://coderefinery.github.io/2023-03-21-workshop/)
+  - [Online, Sep 20--29, 2022](https://coderefinery.github.io/2022-09-20-workshop/)
+  - [Online, Mar 22--23, 2022](https://coderefinery.github.io/2022-03-22-workshop/)
+
 - 5 in-person CodeRefinery tools workshops (3 days).
+
+  - [Tromso, Jan 27--30, 2025](https://coderefinery.github.io/reproducible-python-ml/)
+  - [Aachen, Sep 16--18, 2024](https://coderefinery.github.io/reproducible-python/)
+  - [Gothenburg, Aug 27--29, 2024](https://coderefinery.github.io/2024-08-27-gothenburg/)
+  - [Sozopol, Jun 25--27, 2024](https://elfi2024.eu/)
+  - [Uppsala, May 9--11, 2023](https://coderefinery.github.io/2023-05-09-uppsala/)
+
 - 1 instructor training event (online; 4 sessions over 4 weeks).
+
+  - [Online, Aug 13, Aug 20, Aug 27, Sep 3, 2024](https://coderefinery.github.io/train-the-trainer/)
+
 - 3 online Python for Scientific Computing workshops (3-4 half-days each).
+
+  - [Online, Nov 5--7, 2024](https://www.aalto.fi/en/events/python-for-scientific-computing-5-7november2024)
+  - [Online, Nov 7--10, 2023](https://scicomp.aalto.fi/training/scip/python-for-scicomp-2023/)
+  - [Online, Nov 22--25, 2022](https://scicomp.aalto.fi/training/scip/python-for-scicomp-2022/)
+
 - 1 Build Systems Course (online; 4 half-days).
+
+  - [Online, Oct 8--11, 2024](https://github.com/PDC-support/build-systems-course)
+
 - Tuesday Tools & Techniques for High Performance Computing (online; 4
   sessions over 4 weeks).
+
+  - [Online, Apr 16, Apr 23, May 7, May 14, 2024](https://scicomp.aalto.fi/training/scip/ttt4hpc-2024/)
+
 
 Most of our events have the size and planning effort of a small conference.
 
