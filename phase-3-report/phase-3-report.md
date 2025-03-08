@@ -1,8 +1,8 @@
 ---
 title: "DRAFT: CodeRefinery (phase 3) report"
-subtitle: "version: 2025-02-17-21:00"
+subtitle: "version: 2025-03-08-13:30"
 author: "Radovan Bast and Samantha Wittke"
-date: "2025-02-17"
+date: "2025-03-18"
 format:
   pdf:
     toc: true
@@ -30,7 +30,7 @@ funding partners:
   model](https://www.tietoevry.com/en/create/pps/), set up collaboration- and
   service agreeements, and processed invoices.
 
-- [Aalto University, Finland](https://scicomp.aalto.fi/about/science-it/): 6
+- [Aalto University, Finland](https://scicomp.aalto.fi/about/science-it/): 10
   PM/year for lesson development, instructing, helping, outreach, streaming
   and recording, and transition to online teaching at scale.
 
@@ -159,6 +159,14 @@ During this phase of the project we have delivered:
   - [Online, Nov 5--7, 2024](https://www.aalto.fi/en/events/python-for-scientific-computing-5-7november2024)
   - [Online, Nov 7--10, 2023](https://scicomp.aalto.fi/training/scip/python-for-scicomp-2023/)
   - [Online, Nov 22--25, 2022](https://scicomp.aalto.fi/training/scip/python-for-scicomp-2022/)
+
+
+- Intro to Scientific Computing / HPC Kickstart.
+
+  - [Online, Feb 26, 2025](https://scicomp.aalto.fi/training/scip/winter-kickstart-2025/)
+  - [Online, Jun 4--6, 2024](https://www.youtube.com/playlist?list=PLZLVmS9rf3nOeuqXNa8tS-tDtdQrES2We)
+  - [Online, Jun 6--8, 2023](https://www.youtube.com/playlist?list=PLZLVmS9rf3nMKR2jMglaN4su3ojWtWMVw)
+  - [Online, Jun 7--10, 2022](https://www.youtube.com/playlist?list=PLZLVmS9rf3nOmS1XIWTB0Iu7Amvf79r-f)
 
 - 1 Build Systems Course (online; 4 half-days).
 
