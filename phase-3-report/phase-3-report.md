@@ -1,5 +1,5 @@
 ---
-title: "DRAFT: CodeRefinery (phase 3) report"
+title: "CodeRefinery (phase 3) report"
 subtitle: "version: 2025-03-08-13:30"
 author: "Radovan Bast and Samantha Wittke"
 date: "2025-03-18"
