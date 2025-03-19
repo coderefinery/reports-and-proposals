@@ -28,7 +28,7 @@ funding partners:
   Science, Finland) to support the project manager and to chair the steering
   group. NeIC also provided administrative coordination following the [PPS
   model](https://www.tietoevry.com/en/create/pps/), set up collaboration- and
-  service agreeements, and processed invoices.
+  service agreements, and processed invoices.
 
 - [Aalto University, Finland](https://scicomp.aalto.fi/about/science-it/): 10
   PM/year for lesson development, instructing, helping, outreach, streaming
